@@ -2,10 +2,9 @@
   "name": "parcel-project-template",
   "version": "1.1.0",
   "description": "",
-  "homepage": "https://github.com/migace/parcel-project-template-pl-main",
+  "homepage": "https://pawel4050.github.io/simply-choco/",
   "scripts": {
-    "dev": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url parcel-project-template-pl-main"
+    "build": "parcel build src/*.html --public-url /simply-choco/"
   },
   "repository": {
     "type": "git",
